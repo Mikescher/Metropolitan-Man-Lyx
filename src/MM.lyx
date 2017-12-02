@@ -352,7 +352,7 @@ The Metropolitan Man © Alexander Wales.
 \begin_layout Standard
 
 \size footnotesize
-Text downloaded from https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man
+Text downloaded from https://www.fanfiction.net/s/10360716/1/
 \end_layout
 
 \begin_layout Standard
@@ -696,6 +696,8 @@ pagestyle{myheadings}
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing single
+\noindent
 
 \noun on
 \begin_inset CommandInset toc
