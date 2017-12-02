@@ -324,7 +324,7 @@ vfill
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename EELogo.bmp
+	filename EELogo.png
 	lyxscale 30
 	height 25mm
 
@@ -785,7 +785,7 @@ textit{The Metropolitan Man}.
 
 
 \begin_inset Graphics
-	filename EELogo.bmp
+	filename EELogo.png
 	lyxscale 30
 	height 25mm
 
