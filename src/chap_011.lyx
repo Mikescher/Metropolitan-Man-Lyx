@@ -289,8 +289,11 @@ A single tear rolled down Superman's cheek.
  He coughed, not just because of the hit against the wall, but because the
  bucket had been knocked over and suffused the air with a foul smell.
  When Floyd looked up, Superman was gone again.
- Floyd had been trying to say Your father, a last ditch effort at saving
- his own life.
+ Floyd had been trying to say 
+\shape italic
+Your father
+\shape default
+, a last ditch effort at saving his own life.
  He had no clue whether it had made the difference.
  Superman had wanted to kill him, but hadn't been able to bring himself
  to throw the punch.
@@ -801,7 +804,11 @@ She remembered Clark flinching when she'd said something … something about
  Superman not being totally emotionless when he came across a scene of brutal
  violence.
  Clark hadn't been flinching because he was a naive Midwestern farm boy,
- he'd been flinching because he'd been remembering.
+ he'd been flinching because he'd been 
+\shape italic
+remembering
+\shape default
+.
  He was unreliable because he had other obligations.
  He wasn't lucky, he was able to see through walls and listen in on conversation
 s that happened on the other side of the city.
@@ -821,9 +828,12 @@ A thousand small details came sliding into context, and a hundred questions
  followed in their wake.
  Lois clenched her hands into tight fists.
  She could feel tears in her eyes.
- The biggest argument against the theory was that she was smarter than that,
- dammit, and if you refused to believe something because it would mean that
- you were the biggest idiot in the world, well, that alone said something
+ The biggest argument against the theory was that she was 
+\shape italic
+smarter than that
+\shape default
+, dammit, and if you refused to believe something because it would mean
+ that you were the biggest idiot in the world, well, that alone said something
  about how smart you really were.
  She'd been played.
  Clark Kent had lied to her face for a year and a half, over and over.
@@ -862,7 +872,11 @@ There remained the question of why he would do it - why, if he had the power
  The answer had to be that he was a monster.
  She flitted through her memories of Clark Kent the reporter, and found
  one of him hunched over the paperwork for his taxes.
- People had been dying, and he'd been filing his fucking taxes.
+ People had been dying, and he'd been 
+\shape italic
+filing his fucking taxes
+\shape default
+.
  He'd sat in on boring meetings about style standards while people literally
  burned to death.
  And he'd lied to her, over and over, every single day that they'd worked
@@ -1003,7 +1017,9 @@ Lex sat in his study, trying to keep himself as current as possible with
  to be obsolete the moment it hits shelves.
  I do have some thoughts for what we'll need to change in light of this
  new information though." She turned the notebook towards him.
- Is there still no way to stop him?
+ 
+\shape italic
+Is there still no way to stop him?
 \end_layout
 
 \begin_layout Standard
@@ -1018,7 +1034,13 @@ He watched her carefully.
 "The science of Superman hasn't changed one bit," said Lex.
  "Those chapters will need the smallest amount of work, I should think.
  Public reaction will need to be rewritten entirely." He made the hand signal
- for No in order to underscore his point, then the hand signal for Why?
+ for 
+\shape italic
+No
+\shape default
+ in order to underscore his point, then the hand signal for 
+\shape italic
+Why?
 \end_layout
 
 \begin_layout Standard
@@ -1028,7 +1050,9 @@ He watched her carefully.
  Even if Superman stumbles from time to time, we can still use him as an
  example to live our lives by.
  Do you agree?" She turned the pad towards him again, not missing a beat.
- Superman has a secret identity that I am in close contact with.
+ 
+\shape italic
+Superman has a secret identity that I am in close contact with.
  I need your help in figuring out a way to stop him before he kills again.
 \end_layout
 
@@ -1045,7 +1069,11 @@ Lex very nearly froze.
 \begin_layout Standard
 "Certainly," said Lex.
  "Though I'm not entirely sure that it's within my area of expertise." He
- gave the hand signal for Tell me more.
+ gave the hand signal for 
+\shape italic
+Tell me more
+\shape default
+.
  It was still too early to take any concrete actions, especially when events
  were in flux, but he was already planning how he'd use Lois to slip Superman
  the kryptonite.

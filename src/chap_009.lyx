@@ -316,7 +316,11 @@ When he'd initially arranged for the job, he'd been told that the term of
 \end_layout
 
 \begin_layout Standard
-The SS Excelsior caught fire at nine in the morning.
+The SS 
+\shape italic
+Excelsior
+\shape default
+ caught fire at nine in the morning.
  It was a cruise ship which had taken a recent turn as a ritzy floating
  restaurant in order to drum up business for its next voyage.
  Three times a day it would pull into the harbor and exchange passengers,
@@ -324,8 +328,11 @@ The SS Excelsior caught fire at nine in the morning.
  luxury on the seas was like.
  Sunday was Lois's day off, but her work as a journalist was never far from
  her mind, and she didn't have a real affection for personal time.
- There was a story somewhere on the Excelsior, something that went beyond
- just the glitz and glamour of it.
+ There was a story somewhere on the 
+\shape italic
+Excelsior
+\shape default
+, something that went beyond just the glitz and glamour of it.
  If there wasn't a story, then a day of eating fine foods on a fancy ship
  was a small price to pay.
  Luthor was a part owner of the ship, and had paid her way.
@@ -348,8 +355,12 @@ Lois was first alerted to the fire when a crewman hurried across the dining
 It took a full fifteen minutes for Superman to show up, by which point the
  electrical cables and hydraulic lines had both been burned through, leaving
  the ship adrift and without radio.
- The Excelsior had been at its furthest distance from Metropolis when the
- fire started, and just making the turn back towards the city.
+ The 
+\shape italic
+Excelsior
+\shape default
+ had been at its furthest distance from Metropolis when the fire started,
+ and just making the turn back towards the city.
  If it weren't a Sunday, the ports would have been busier, but as it was
  the effort to provide them a rescue was looking pitiful.
 \end_layout
@@ -418,14 +429,24 @@ She'd been sitting in Lex's study two weeks prior ago he'd brought up the
 \end_layout
 
 \begin_layout Standard
-You're one of the anchors holding Superman in place, wrote Lex.
- You need to bind yourself tighter to him, so that he'll listen to you.
+
+\shape italic
+You're one of the anchors holding Superman in place
+\shape default
+, wrote Lex.
+ 
+\shape italic
+You need to bind yourself tighter to him, so that he'll listen to you.
  He's attracted to you.
  Use that.
 \end_layout
 
 \begin_layout Standard
-She made the hand signal for No.
+She made the hand signal for 
+\shape italic
+No
+\shape default
+.
  She and Lex had some two dozen signals that they used for messages that
  were too short for paper, a sign of how long they'd kept up their charade.
  The book was nearing completion, with Lex as a full co-author, and there
@@ -435,23 +456,39 @@ She made the hand signal for No.
 \end_layout
 
 \begin_layout Standard
-Why? he signed back.
+
+\shape italic
+Why? 
+\shape default
+he signed back.
 \end_layout
 
 \begin_layout Standard
 Lois sighed and started writing a message.
- He would know that I was lying.
+ 
+\shape italic
+He would know that I was lying.
  His senses are too sharp for me to fool him.
  And I could only keep it up for so long before he would figure it out.
+
+\shape default
  She paused with her pencil poised over the page.
- It would increase the scrutiny on me.
+ 
+\shape italic
+It would increase the scrutiny on me.
  And I don't like him.
  He's too powerful.
 \end_layout
 
 \begin_layout Standard
-You've criticized me for not doing enough, Lex wrote back.
- This is a good plan.
+
+\shape italic
+You've criticized me for not doing enough,
+\shape default
+ Lex wrote back.
+ T
+\shape italic
+his is a good plan.
  Scrutiny we can deal with.
  I understand that you don't like him, but if you're truly worried about
  him going rogue, this is one of the best ways to stop it from happening.
@@ -494,8 +531,14 @@ She couldn't argue with the logic of providing an anchor for Superman, but
 \end_layout
 
 \begin_layout Standard
-It's fine if you don't want to do it, wrote Lex.
- But it's important to make the distinction between you having a personal
+I
+\shape italic
+t's fine if you don't want to do it,
+\shape default
+ wrote Lex.
+ 
+\shape italic
+But it's important to make the distinction between you having a personal
  distaste for your involvement and the plan actually being a poor one.
 \end_layout
 
@@ -963,8 +1006,12 @@ Superman - for it could only be Superman - was covered in the same fine
  fast, trying not to break your fragile little bodies.
  Do you understand how careful I was in bringing you up out of the storm?
  How easily I could have broken your bones, or liquified your muscles? Do
- you think I have one single ounce of sympathy for you?" Superman let out
- a raw and primal scream that left Floyd momentarily deaf.
+ you think I have one single 
+\shape italic
+ounce
+\shape default
+ of sympathy for you?" Superman let out a raw and primal scream that left
+ Floyd momentarily deaf.
  It was so loud his very bones had vibrated.
  And even then, he could tell that Superman had been holding back.
 \end_layout
@@ -1078,7 +1125,11 @@ There had been no word from Floyd Lawton.
 That Martha Kent was injured and probably dead was troubling.
  Superman had tethers to the world, and she was one of them.
  From what Lex had been able to find out, Clark Kent had few friends, and
- none that extended beyond his employment at The Daily Planet.
+ none that extended beyond his employment at 
+\shape italic
+The Daily Planet
+\shape default
+.
  In all likelihood, Superman now knew that his secret identity was compromised,
  which was another point of worry.
  Events were not yet spiraling out of control, but if the plan had followed

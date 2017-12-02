@@ -97,8 +97,11 @@ There had been grumbling from some of the other reporters that it had been
  dumb luck, but obviously Superman had chosen her for a reason, and obviously
  that reason had been her reporting.
  That's what she kept telling herself, anyway.
- Lois worked twice as hard as any other reporter at The Daily Planet, and
- put out three times as many stories.
+ Lois worked twice as hard as any other reporter at 
+\shape italic
+The Daily Planet
+\shape default
+, and put out three times as many stories.
  She'd started there at the age of sixteen, after she'd sent in an anonymous
  letter to the editor that had so impressed Perry White that he'd put out
  an advert asking for her to identify herself.
@@ -148,9 +151,13 @@ Lois laughed, and Clark frowned, just as she knew he would.
 
 \begin_layout Standard
 "Do you know how much ad space costs in the paper right now?" asked Lois.
- "People know that Superman reads The Daily Planet, and that's their only
- way of communicating with him short of calling out for him and hoping that
- he stops by, which we know doesn't work and probably just pisses him off."
+ "People know that Superman reads 
+\shape italic
+The Daily Planet
+\shape default
+, and that's their only way of communicating with him short of calling out
+ for him and hoping that he stops by, which we know doesn't work and probably
+ just pisses him off."
 \end_layout
 
 \begin_layout Standard
@@ -395,8 +402,11 @@ Lex Luthor had become a different man.
  "Yet prior to a week ago, you stayed in the shadows.
  On paper, LexCorp is enormous, but I'd wager that most people in Metropolis
  have never heard of it, even if they work for one of its subsidiaries.
- So far as I can tell, The Daily Planet hasn't filed a single story about
- you.
+ So far as I can tell, 
+\shape italic
+The Daily Planet
+\shape default
+ hasn't filed a single story about you.
  And now here you are, stepping out from behind the curtain to set up an
  orphanage in Suicide Slums - one of a few grand charitable gestures you've
  been making.

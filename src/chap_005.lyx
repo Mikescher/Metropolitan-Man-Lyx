@@ -677,8 +677,11 @@ Sal Maroni was a Superman spotter, which really just meant that he sat on
 \end_layout
 
 \begin_layout Standard
-He'd heard the sirens earlier, and WGBS has switched from The Adventures
- of Lolly Lemon to reporting on the return of the Clockwork Bomber.
+He'd heard the sirens earlier, and WGBS has switched from 
+\shape italic
+The Adventures of Lolly Lemon
+\shape default
+ to reporting on the return of the Clockwork Bomber.
  It was about two hours after that when Superman rose up from near The Daily
  Planet Building, moving so fast that Sal might have missed it if he hadn't
  been paying attention.
@@ -986,9 +989,12 @@ There were forty-eight bombs in total.
 
 \begin_layout Standard
 "You look like shit, Clark," said Lois when they got back to work.
- Most of the businesses had temporarily closed after the second day; The
- Daily Planet had closed on the fourth, when some people were saying that
- the bombs would keep going off forever.
+ Most of the businesses had temporarily closed after the second day; 
+\shape italic
+The Daily Planet
+\shape default
+ had closed on the fourth, when some people were saying that the bombs would
+ keep going off forever.
 \end_layout
 
 \begin_layout Standard

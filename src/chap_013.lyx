@@ -188,7 +188,11 @@ The jewelry store was a small slice of glamour that didn't quite fit with
 
 \begin_layout Standard
 Lois took a breath, and dove right in.
- "My name is Lois Lane, and I'm a reporter for The Daily Planet.
+ "My name is Lois Lane, and I'm a reporter for 
+\shape italic
+The Daily Planet
+\shape default
+.
  My editor keeps asking me to write a women's piece that's not about equal
  rights or social issues, and I decided that I'd finally indulge him.
  So I was thinking that I would write about jewelry.
@@ -276,7 +280,11 @@ She set two items down on the counter.
 \end_layout
 
 \begin_layout Standard
-What does it do? wrote Lois.
+
+\shape italic
+What does it do?
+\shape default
+ wrote Lois.
 \end_layout
 
 \begin_layout Standard
@@ -294,8 +302,14 @@ Lex frowned at the notebook.
 \end_layout
 
 \begin_layout Standard
-I don't know, Lex wrote back.
- I have reason to believe that it will hurt him.
+
+\shape italic
+I don't know
+\shape default
+, Lex wrote back.
+ 
+\shape italic
+I have reason to believe that it will hurt him.
 \end_layout
 
 \begin_layout Standard
@@ -304,6 +318,8 @@ Lois read the note and frowned at him.
 \end_layout
 
 \begin_layout Standard
+
+\shape italic
 I'm not sure we should.
 \end_layout
 
@@ -316,33 +332,62 @@ Lex stifled a groan.
 \end_layout
 
 \begin_layout Standard
-I figured out his identity, wrote Lex.
- It wasn't difficult once I started looking at the people around you.
+
+\shape italic
+I figured out his identity
+\shape default
+, wrote Lex.
+ 
+\shape italic
+It wasn't difficult once I started looking at the people around you.
+
+\shape default
  He watched her face as she read that, then took the notebook from her again
  before she had a chance to respond.
- You're starting to feel sympathy towards him.
+ 
+\shape italic
+You're starting to feel sympathy towards him.
  You think that you understand where he's coming from.
 \end_layout
 
 \begin_layout Standard
 Lois shrugged, then nodded.
- He's not perfect, she wrote back.
- But I think that I know where he's coming from now.
+ 
+\shape italic
+He's not perfect
+\shape default
+, she wrote back.
+ 
+\shape italic
+But I think that I know where he's coming from now.
  We've been talking a lot lately.
 \end_layout
 
 \begin_layout Standard
-He murdered a man in cold blood, wrote Lex, but Lois was already shaking
- her head.
+
+\shape italic
+He murdered a man in cold blood
+\shape default
+, wrote Lex, but Lois was already shaking her head.
 \end_layout
 
 \begin_layout Standard
-He regrets it, she wrote back.
+
+\shape italic
+He regrets it,
+\shape default
+ she wrote back.
 \end_layout
 
 \begin_layout Standard
-What else will he come to regret? asked Lex.
- We're talking about the fate of the world.
+
+\shape italic
+What else will he come to regret?
+\shape default
+ asked Lex.
+ 
+\shape italic
+We're talking about the fate of the world.
  You know that there's no stopping him if he goes rogue.
  Even if the chance is slim, it's a chance weighed against the total destruction
  of humanity.
@@ -353,19 +398,29 @@ What else will he come to regret? asked Lex.
 
 \begin_layout Standard
 Lois frowned.
- Will it depower him, or kill him?
+ 
+\shape italic
+Will it depower him, or kill him?
 \end_layout
 
 \begin_layout Standard
-I don't know, wrote Lex.
+
+\shape italic
+I don't know
+\shape default
+, wrote Lex.
  He was halfway certain that she was testing him.
  He would have pivoted, and claimed that he knew what the effect was, but
  he'd already said that he didn't know, and couldn't take the chance of
  getting caught in the lie.
- There is some element of risk here, but I think it's low.
+ 
+\shape italic
+There is some element of risk here, but I think it's low.
  The mineral in the watch emits a radiation that I suspect will cause some
  interference with his power.
- I need you to observe him carefully when you put the watch on him.
+ I need you to observe him carefully when you put the watch on him
+\shape default
+.
  Lex had done his own probability estimates, based on what he knew of Kryptonian
  engineering from taking apart the ship.
  He strongly believed that Superman's powers were of technological rather
@@ -380,12 +435,18 @@ e would probably not endear her to the plan though.
 Lois slowly read what he'd written.
  She considered for a moment and wrote back.
  You would be exposing yourself.
- Clark would know that someone was aware of his secret identity - someone
+ 
+\shape italic
+Clark would know that someone was aware of his secret identity - someone
  besides me, if he believed I was an innocent victim of your machinations.
 \end_layout
 
 \begin_layout Standard
-A risk I'm willing to take, wrote Lex.
+
+\shape italic
+A risk I'm willing to take,
+\shape default
+ wrote Lex.
  Superman almost certainly already knew.
  That ship had sailed after the Smallville operation.
  But there wasn't a convincing lie that he could tell Lois to explain to
@@ -401,8 +462,16 @@ Lois absentmindedly bit the end of the pencil and paced around the room.
 \end_layout
 
 \begin_layout Standard
-You still don't actually trust him, wrote Lex.
+
+\shape italic
+You still don't actually trust him,
+\shape default
+ wrote Lex.
+
+\shape italic
  You would have told him about our arrangement if you did.
+
+\shape default
  He handed the pad of paper to her, and she stared at it mutely.
 \end_layout
 
@@ -936,7 +1005,11 @@ Lex was silent.
 
 \begin_layout Standard
 "What's the catch?" asked Lex.
- The important question of How? would come later.
+ The important question of 
+\shape italic
+How?
+\shape default
+ would come later.
 \end_layout
 
 \begin_layout Standard
@@ -953,8 +1026,11 @@ Superman waved his hand around the room.
  I'll need a thorough debriefing on all of your methods of deception.
  It probably goes without saying that I'll be watching you like a hawk.
  I want your help in allowing me to keep my identity as Clark Kent secret,
- which will likely involve buying The Daily Planet and giving me a list
- of everyone who you've told, for starters.
+ which will likely involve buying 
+\shape italic
+The Daily Planet
+\shape default
+ and giving me a list of everyone who you've told, for starters.
  And you're never to speak with Lois again."
 \end_layout
 
@@ -1293,7 +1369,11 @@ Jimmy moved closer and lowered his voice.
 \end_layout
 
 \begin_layout Standard
-Luthor, thought Lois.
+
+\shape italic
+Luthor
+\shape default
+, thought Lois.
  She should have known that after she told him about Superman's secret identity
  he would try to find out more.
  Maybe it had been one of the things that had tipped Clark off and let him

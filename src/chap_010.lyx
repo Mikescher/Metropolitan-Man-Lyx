@@ -476,10 +476,25 @@ Clark Kent had gotten word that his mother died on Monday, and broke down
 \end_layout
 
 \begin_layout Standard
-Superman,
+\begin_inset VSpace 1cm*
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+
+\shape italic
+Superman,
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
 I've been wondering whether you would like to join me for dinner on Thursday.
  I live in an apartment building on the corner of 13th St.
  and 33nd Ave.
@@ -488,10 +503,23 @@ I've been wondering whether you would like to join me for dinner on Thursday.
  up.
  I'll be eating at seven whether you're there or not, but I'd be pleased
  if you would join me.
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+
+\shape italic
 Lois
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm*
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

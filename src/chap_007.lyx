@@ -209,7 +209,11 @@ A week later, someone began setting fire to the homes of known or suspected
  She'd been practically mobbed by the other churchgoers when she'd gone
  to Christmas Mass, since people seemed to think that she and Superman were
  as close as two peas in a pod.
- In their defense, The Daily Planet hadn't been quick to correct that view.
+ In their defense, 
+\shape italic
+The Daily Planet
+\shape default
+ hadn't been quick to correct that view.
 \end_layout
 
 \begin_layout Standard
@@ -479,9 +483,11 @@ He never said the name "Clark Kent" out loud.
  hearing kicked.
  Everyone chattered about Superman all day, but surely very few people talked
  about Clark Kent.
- He was a reporter, and his name appeared in nearly every issue of The Daily
- Planet, so perhaps there was some cover there, but Lex wasn't about to
- risk it.
+ He was a reporter, and his name appeared in nearly every issue of 
+\shape italic
+The Daily Planet
+\shape default
+, so perhaps there was some cover there, but Lex wasn't about to risk it.
  He had Superman's secret, and it was the most precious thing in the world.
 \end_layout
 
@@ -494,8 +500,11 @@ Getting records was difficult.
  Now this was working against him, because any connection he formed with
  Clark Kent would be immediately suspect.
  If Lex had simply remained an anonymous businessman, there would be nothing
- too surprising about him purchasing The Daily Planet and looking through
- its files.
+ too surprising about him purchasing 
+\shape italic
+The Daily Planet
+\shape default
+ and looking through its files.
  But for Lex Luthor the Superman scholar to do it - well, there was no way
  that Superman wouldn't suspect something.
 \end_layout

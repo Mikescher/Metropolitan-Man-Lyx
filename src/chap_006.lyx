@@ -247,8 +247,11 @@ Mercy took a sip from her tea.
 \begin_layout Standard
 "Photographs of him are surprisingly rare," said Lex.
  "When people think of Superman, they don't think of him as he really exists,
- they think of Norman Rockwell's painting of him on the cover of The Saturday
- Evening Post.
+ they think of Norman Rockwell's painting of him on the cover of 
+\shape italic
+The Saturday Evening Post
+\shape default
+.
  Superman has posed for a single photograph, the one that showed him and
  Miss Lane, and all the rest are of the man doing some impossible thing,
  lifting cars above his head or flying through the air, and the focus is
@@ -321,7 +324,11 @@ Lex nodded.
  They would become filthy rich and live a life of celebrity and hedonism.
  Perhaps it occurs to his coworkers that the man they work with looks like
  Superman, but they wouldn't immediately make the leap to thinking that
- he actually was Superman.
+ he actually 
+\shape italic
+was
+\shape default
+ Superman.
  Maybe they would make jokes, but he would deflect them, or play along.
  Maybe he even has a few people in his confidence.
  Think about it.
