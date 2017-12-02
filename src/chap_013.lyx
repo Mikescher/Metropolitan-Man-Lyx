@@ -1,0 +1,1578 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass memoir
+\use_default_options true
+\master APGTE.lyx
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman Crimson Text
+\font_sans Linux Biolinum
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 23cm
+\paperheight 16cm
+\leftmargin 2.1cm
+\topmargin 1.8cm
+\rightmargin 1.8cm
+\bottommargin 2.1cm
+\secnumdepth 3
+\tocdepth 0
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+\noindent
+Finale, Part 2
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+Dear Lois,
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+I've been a longtime reader of your articles, and I have to say that I'm
+ quite the fan.
+ I've been happy to note from the few photographs I've seen of you that
+ we seem to share a similar taste in fashion, and I just wanted to share
+ a tip with you.
+ There's a jewelry store up on 18th and 22nd called Marxhausen's, and they
+ have just the most fantastic pieces that would perfectly complement your
+ outfits.
+ Their necklaces are so delicate and understated, just the thing for a woman
+ like you.
+ I don't know if you have a special man in your life, but if you do I'm
+ sure he'd love to see you in it - and if you don't, I'm sure that it would
+ help attract one!
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Your loyal fan,
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Lucille Lindt
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Lois got a number of letters from the citizens of Metropolis on any given
+ day.
+ Lex had arranged for this to also be a private channel of communication.
+ The opening sentence was one she'd memorized, and if that weren't enough,
+ the initials at the bottom were L.L., initials that she and Lex shared -
+ his idea of a joke, she supposed.
+\end_layout
+
+\begin_layout Standard
+She went down to Marxhausen's over her lunch break, not really knowing what
+ to expect.
+ She'd kept her distance from Lex ever since she and Clark had hit the reset
+ button on their friendship.
+ If Clark had asked her a direct question, she might have given up her last
+ remaining secret to him, but so far he hadn't shown any curiosity.
+ That made her a bit nervous.
+ It was well possible that he'd already made his own deductions on that
+ score, especially if he'd been watching her.
+ He knew that she had a less than glowing opinion of him, and the book she'd
+ written with Luthor was damn near a hagiography, with none of the complexity
+ that she'd brought to her recent talks with Clark.
+ But he hadn't asked, and she hadn't felt like offering it up on her own.
+\end_layout
+
+\begin_layout Standard
+The jewelry store was a small slice of glamour that didn't quite fit with
+ the rest of the block.
+ It wasn't uncommon for the borders of the neighborhoods to shift slightly
+ over the years, and from what Lois could tell, Marxhausen's had been the
+ victim of one of these shifts.
+ It was a small, narrow store, staffed by a fetching woman with obscenely
+ blonde hair who perked up at the sound of the door opening.
+ Lois looked around slowly.
+ There was nothing obvious to mark this as part of some plot.
+\end_layout
+
+\begin_layout Standard
+"Can I help you?" asked the blonde woman.
+\end_layout
+
+\begin_layout Standard
+Lois took a breath, and dove right in.
+ "My name is Lois Lane, and I'm a reporter for The Daily Planet.
+ My editor keeps asking me to write a women's piece that's not about equal
+ rights or social issues, and I decided that I'd finally indulge him.
+ So I was thinking that I would write about jewelry.
+ It should help pacify him, I think." Hopefully Clark wouldn't think that
+ was too suspicious.
+ Lex had only gotten her to the store, and she didn't have the barest outline
+ of a script.
+ Of course, it would mean that she would have to actually write the article,
+ on top of her other work.
+\end_layout
+
+\begin_layout Standard
+A sudden change came over the woman's face, her eyebrows falling and then
+ rising again, and when she spoke, her voice was slightly higher than before.
+ "Oh, oh yes, there's so much that I could tell you about.
+ More and more women are buying their own jewelry these days, working women
+ who want to attract a husband." She reached beneath the counter.
+ "In fact, if you'd be willing to mention Marxhausen's in the article, there's
+ a piece I think you might like.
+ It comes with a matching watch, for that special man in your life." She
+ had a nervous giggle.
+\end_layout
+
+\begin_layout Standard
+She set two items down on the counter.
+ One was a small golden locket, shaped like an oval.
+ The other was a watch, which glowed green behind the clock face.
+ Lois made no move to touch it.
+\end_layout
+
+\begin_layout Standard
+"Is it radium?" asked Lois.
+\end_layout
+
+\begin_layout Standard
+"What?" asked the woman with a puzzled look.
+\end_layout
+
+\begin_layout Standard
+"Radium," Lois repeated.
+ "It's a metal that glows green, just like that.
+ Twenty years ago there was a group of factory workers - women - who painted
+ the faces of watches with radium so they'd glow in the dark.
+ They licked the tip of their paint brushes to get a fine point, and they
+ suffered from radiation poisoning - anemia and bone fractures, and then
+ their jaws started to fall apart, disintegrating." She had literally written
+ the book on it.
+\end_layout
+
+\begin_layout Standard
+"I've, ah, been assured that it's safe," said the blonde woman.
+\end_layout
+
+\begin_layout Standard
+"So were the girls who worked in the factory," said Lois.
+ She wondered how far she was deviating from what Lex had planned.
+ Obviously she was intended to walk out of the store with watch and the
+ necklace.
+ "I'm only curious about what makes it glow, I don't mean to be so … adversarial.
+ The locket has a similar component?"
+\end_layout
+
+\begin_layout Standard
+"Oh yes," said the saleswomen, who seemed grateful to be back on familiar
+ ground.
+ She cracked the locket open, and showed a multi-faceted gem.
+\end_layout
+
+\begin_layout Standard
+"Alright," said Lois.
+ "I'll take them.
+ Now for this story, I have a few questions …"
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What does it do? wrote Lois.
+\end_layout
+
+\begin_layout Standard
+Lex frowned at the notebook.
+ He had thought that the next course of action would be obvious to her:
+ give Clark Kent the watch and see what happens.
+ He'd done his best to keep her out of the loop specifically so that if
+ Superman asked her, she would be able to tell the truth.
+ Superman had to know that there was someone plotting against him by now,
+ especially given the theft of the spaceship and the death of his mother,
+ but it was important that it appear as though Lois had been used as a pawn,
+ rather than the more valuable bishop or knight that she really was.
+ And then she'd had to go and ruin it by visiting him and asking for answers,
+ which would seem unacceptably suspicious.
+\end_layout
+
+\begin_layout Standard
+I don't know, Lex wrote back.
+ I have reason to believe that it will hurt him.
+\end_layout
+
+\begin_layout Standard
+Lois read the note and frowned at him.
+ She tapped her pencil against the paper for a few moments.
+\end_layout
+
+\begin_layout Standard
+I'm not sure we should.
+\end_layout
+
+\begin_layout Standard
+Lex stifled a groan.
+ He was losing Lois, that much was clear now.
+ It was at least gratifying to know that she hadn't taken leave of her senses
+ in coming to him; it was only a problem of a different sort.
+ He could deal with a question of loyalties, at least in the near term.
+\end_layout
+
+\begin_layout Standard
+I figured out his identity, wrote Lex.
+ It wasn't difficult once I started looking at the people around you.
+ He watched her face as she read that, then took the notebook from her again
+ before she had a chance to respond.
+ You're starting to feel sympathy towards him.
+ You think that you understand where he's coming from.
+\end_layout
+
+\begin_layout Standard
+Lois shrugged, then nodded.
+ He's not perfect, she wrote back.
+ But I think that I know where he's coming from now.
+ We've been talking a lot lately.
+\end_layout
+
+\begin_layout Standard
+He murdered a man in cold blood, wrote Lex, but Lois was already shaking
+ her head.
+\end_layout
+
+\begin_layout Standard
+He regrets it, she wrote back.
+\end_layout
+
+\begin_layout Standard
+What else will he come to regret? asked Lex.
+ We're talking about the fate of the world.
+ You know that there's no stopping him if he goes rogue.
+ Even if the chance is slim, it's a chance weighed against the total destruction
+ of humanity.
+ If the odds are a thousand to one that he'll kill us all, that's an average
+ of two million dead.
+ My own estimates are higher, but you know him better than I do.
+\end_layout
+
+\begin_layout Standard
+Lois frowned.
+ Will it depower him, or kill him?
+\end_layout
+
+\begin_layout Standard
+I don't know, wrote Lex.
+ He was halfway certain that she was testing him.
+ He would have pivoted, and claimed that he knew what the effect was, but
+ he'd already said that he didn't know, and couldn't take the chance of
+ getting caught in the lie.
+ There is some element of risk here, but I think it's low.
+ The mineral in the watch emits a radiation that I suspect will cause some
+ interference with his power.
+ I need you to observe him carefully when you put the watch on him.
+ Lex had done his own probability estimates, based on what he knew of Kryptonian
+ engineering from taking apart the ship.
+ He strongly believed that Superman's powers were of technological rather
+ than biological origin, simply given their raw power, and if kryptonite
+ had any negative effect at all, the engineering of the ship suggested to
+ him that it would have been designed to fail safely.
+ Telling Lois that he'd weighed the odds of catastrophe and found them acceptabl
+e would probably not endear her to the plan though.
+\end_layout
+
+\begin_layout Standard
+Lois slowly read what he'd written.
+ She considered for a moment and wrote back.
+ You would be exposing yourself.
+ Clark would know that someone was aware of his secret identity - someone
+ besides me, if he believed I was an innocent victim of your machinations.
+\end_layout
+
+\begin_layout Standard
+A risk I'm willing to take, wrote Lex.
+ Superman almost certainly already knew.
+ That ship had sailed after the Smallville operation.
+ But there wasn't a convincing lie that he could tell Lois to explain to
+ her how he had come by that information.
+ If she were trustworthy, this whole conversation would have gone a lot
+ smoother.
+\end_layout
+
+\begin_layout Standard
+Lois absentmindedly bit the end of the pencil and paced around the room.
+ Lex didn't know how she weighed the arguments, but if she refused him,
+ everything got much more complicated.
+\end_layout
+
+\begin_layout Standard
+You still don't actually trust him, wrote Lex.
+ You would have told him about our arrangement if you did.
+ He handed the pad of paper to her, and she stared at it mutely.
+\end_layout
+
+\begin_layout Standard
+Some time passed, but eventually she nodded.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Clark wasn't at his desk when Lois came into the office.
+ She put the necklace and the watch into the lead-lined drawer of her desk,
+ and tried to get some work done.
+ She'd been put in an awkward position by Lex.
+ Simply talking to Clark about how she felt had done wonders, and melted
+ away a good deal of her stress.
+ He was still in love with her, and that would have to be dealt with at
+ some point in the future, but she'd confessed her fears and frustrations
+ and he had been understanding.
+ They had their disagreements - deep disagreements that weren't going to
+ go away anytime soon - but they were at least talking to each other like
+ reasonable adults.
+\end_layout
+
+\begin_layout Standard
+Clark came in, hung his coat up on a hook on the wall, and took a seat at
+ his desk.
+ He smiled pleasantly at her.
+\end_layout
+
+\begin_layout Standard
+"I got you a gift," said Lois.
+ Her voice nearly caught.
+ "Not that much of one, really, since it was free, but I thought you might
+ appreciate it." She opened the desk drawer, and heard a noise from Clark's
+ desk.
+ He was standing far away from her, with a serious expression on his face.
+ She hadn't even seen him move.
+\end_layout
+
+\begin_layout Standard
+"There's a small box in my briefcase," said Clark.
+ His voice was calm.
+ "I want you to take it out and put both the watch and the necklace in it."
+\end_layout
+
+\begin_layout Standard
+"Clark," Lois began.
+ Something had gone horribly wrong.
+\end_layout
+
+\begin_layout Standard
+"Now please," said Clark.
+ "Be careful, the box is heavy."
+\end_layout
+
+\begin_layout Standard
+Lois did as she was instructed.
+ The box was a crude thing.
+ It felt heavier than it should have been.
+ She put both the pieces into it, and closed it tight.
+ When she did, Clark strode forward and picked the box up, then sat down
+ in his chair.
+ No one else around them seemed to have noticed any of this.
+\end_layout
+
+\begin_layout Standard
+"It seems that we were less than perfectly honest with each other," said
+ Clark.
+ "Old habits, I guess."
+\end_layout
+
+\begin_layout Standard
+"Clark," said Lois.
+ She folded her hands into her lap, to keep them from shaking.
+ "Fuck, I don't know what to say."
+\end_layout
+
+\begin_layout Standard
+"Language," said Clark with a mild tone.
+ "I'm not angry, just disappointed.
+ We'll have to talk this out later." He drummed his fingers on top of the
+ box.
+ "Just for my own personal confirmation before I confront him, who gave
+ you these?"
+\end_layout
+
+\begin_layout Standard
+There was no way to deny it.
+ Clark already knew.
+ "Lex Luthor," said Lois.
+ Her mouth felt dry.
+\end_layout
+
+\begin_layout Standard
+Clark stood up from his chair, and tucked the box under one arm as though
+ it were weightless.
+ "Well, I'm off to have a talk with him." He began to leave, as though nothing
+ at all were wrong.
+\end_layout
+
+\begin_layout Standard
+"Clark," said Lois.
+ He stopped, and turned towards her.
+ "I'm sorry."
+\end_layout
+
+\begin_layout Standard
+"Well, that's a start," he replied.
+ He gave her a heartbroken smile.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+"Superman to see you, sir," said Mercy.
+\end_layout
+
+\begin_layout Standard
+Lex simply stared at her.
+ Just once he would have liked to see some trace of emotion from her, but
+ Mercy could announce that the world was ending and still seem like she
+ was bored.
+\end_layout
+
+\begin_layout Standard
+"Did he say what it was regarding?" asked Lex.
+\end_layout
+
+\begin_layout Standard
+"The fate of humanity," said Mercy, without so much as a raised eyebrow
+ or a polite cough to acknowledge the absurdity of it.
+\end_layout
+
+\begin_layout Standard
+"Ah, well, send him in," said Lex.
+ He looked towards the lead-lined drawer of his desk, where a pistol with
+ specially prepared bullets lay waiting.
+ Inside each lead bullet was a small sliver of kryptonite.
+ It was a terrible plan, so far as they went, but at least it was there.
+\end_layout
+
+\begin_layout Standard
+Superman strode into the study, looking around as he went.
+ He was graceful, for someone so big.
+ The bright colors of his costume clashed with the rich mahogany and leather
+ upholstery of the room, but he didn't seem to notice or care.
+\end_layout
+
+\begin_layout Standard
+"I don't believe we've had the pleasure of being introduced," said Lex.
+ "Though I was an innocent bystander at a bank robbery that you stopped.
+ I'm Lex Luthor, though I suppose you already know that." He extended a hand,
+ and when Superman shook it, he tried not to think about his fingers being
+ mashed into pulp.
+\end_layout
+
+\begin_layout Standard
+Superman sat down in one of the chairs, and offered Lex a pleasant smile.
+ "Well, I'm not sure quite where to begin." He looked around the room for
+ a moment, perhaps contemplating the fact that he was surrounded by lead.
+ Then he turned and pointed to bound proof on Lex's desk, a copy of the
+ book he and Lois had put together about Superman.
+ "May I?"
+\end_layout
+
+\begin_layout Standard
+"Certainly," said Lex.
+ "If there's anything that you think needs changing, we'd be happy to-"
+\end_layout
+
+\begin_layout Standard
+Superman waved him off, and opened the sheaf of papers to somewhere in the
+ middle, finding what he wanted immediately.
+ "Ah, here we go.
+ 'The currently accepted explanation for Superman's so-called x-ray vision
+ has nothing to do with x-rays.
+ Though one can be forgiven for thinking that they have something to do
+ with that particular form of radiation given that both are used to peer
+ through otherwise solid objects, as well as the use of lead for shielding,
+ the similarities end there.'" Superman looked up at Lex for a moment, then
+ back down at the book.
+ "And so on and so forth, and then here, this is what I wanted to point
+ out.
+ 'Superman's penetrative vision is thought by leading scientists to utilize
+ some hitherto unknown aspect of particle physics.
+ The hypothesized krypto particles permeate the universe and can pass cleanly
+ through every known element aside from lead.' And then it goes on to talk
+ about the difference between lead as it applies to x-rays and lead as it
+ applies to krypto particles."
+\end_layout
+
+\begin_layout Standard
+Lex stared at Superman.
+ He tried to keep calm and slow his heart rate down.
+ "Are you telling me that you can see through lead?"
+\end_layout
+
+\begin_layout Standard
+"No," said Superman.
+ "However, let me offer up a hypothetical.
+ Let's say that there's a mineral that was found in the core of a meteorite.
+ Two separate research facilities were sent samples of the meteorite - not
+ by me, but by a third party - and they could find no form of radiation
+ using any of the instruments at their disposal.
+ I know for a fact that it does emit radiation, because as you seem to have
+ guessed, that radiation has an unsettling effect on me.
+ As an additional piece of information, the radiation from this mineral
+ is blocked by lead, but seemingly by nothing else.
+ What do you suppose it would look like to my x-ray vision?"
+\end_layout
+
+\begin_layout Standard
+"Bright," said Lex.
+ "Because if it emits anything, Occam's Razor would dictate that it's krypto
+ particles rather than some distinct particle which shares many of the same
+ properties.
+ And if they're the same, it's a matter of degree - the mineral emits far,
+ far more than you use to see by." He should have seen that possibility far,
+ far sooner.
+ The only question remaining was how many layers of deception it would allow
+ Superman to peel back.
+\end_layout
+
+\begin_layout Standard
+"It's as bright as a blazing sun, difficult to look directly at," said Superman.
+ He shrugged.
+ "I probably would have been able to piece it together all the same.
+ A man walked by me with a piece of glowing green rock in his breast pocket,
+ and I felt myself grow weaker the closer he got to me.
+ I have extensive practice at faking reactions, or faking a lack of reaction,
+ and just when I was beginning to feel mortal, and worried that I was going
+ to be killed in some ignoble way, he kept on moving by.
+ So I held myself in check and as soon as I got to a safe place, I watched
+ him.
+ I saw a piece of rock that was so bright it nearly blinded me."
+\end_layout
+
+\begin_layout Standard
+Lex kept very still.
+ The research facilities he'd sent the kryptonite to hadn't had lead shielding,
+ and he hadn't thought that they would need it.
+ The story he'd given for the appearance of kryptonite had been solid, and
+ the forged paperwork had been airtight.
+ Experimentation and synthesis of an unknown mineral shouldn't have been
+ suspicious - except that Superman would only have had to go to space and
+ look down at the planet.
+ If they shone as brightly as he claimed they did, they'd stick out like
+ a sore thumb.
+\end_layout
+
+\begin_layout Standard
+"So," said Superman.
+ "I stole a piece of the PU-356 from one of the labs.
+ I won't bore you with the details, but it would suffice to say that I can
+ see through walls and move as fast as I want to, which makes me an excellent
+ thief.
+ I confirmed that it could hurt me, and after that it was just a matter
+ of being careful until I could confirm your involvement to my satisfaction.
+ I'm not in any real danger from the PU-356, though it is inconvenient.
+ I can see it clearly from miles away without having to try all that hard,
+ and my superior speed means that a bullet made of it could never hit me."
+ Superman sighed.
+ "Of course, we can drop the pretense of there ever being a meteorite.
+ That would be too big of a coincidence to swallow, if a meteorite capable
+ of harming me was found and put into mass synthesis just a short while
+ after my spaceship was stolen from me."
+\end_layout
+
+\begin_layout Standard
+Lex's mouth felt dry.
+ "I was blackmailed," he began.
+ "I was told that unless I tried -"
+\end_layout
+
+\begin_layout Standard
+Superman waved his hand.
+ "I don't believe you," he said with a half smile.
+ "You made a good faith attempt to kill me, and you used Lois to do it."
+\end_layout
+
+\begin_layout Standard
+"The military -" said Lex.
+\end_layout
+
+\begin_layout Standard
+"There were a few reasons that I came here," said Superman.
+ "Things we need to discuss.
+ First, I want you to admit to what you've done.
+ All of it."
+\end_layout
+
+\begin_layout Standard
+Lex's face fell.
+ "I don't know what it is you think you know," he said.
+ "Or how you think you know it.
+ I did arrange for Lois to deliver a piece of the mineral to you, and it
+ was an attempt to see whether you could be disrupted in some way, but I
+ don't know anything about a spaceship.
+ So far as I'm aware, it burned up on re-entry.
+ I felt it prudent to have a method of dealing with you in case the worst
+ were to happen, and I can only hope that -"
+\end_layout
+
+\begin_layout Standard
+"Towards the end of his life, William Calhoun talked a lot," said Superman.
+ "He sat in a jail cell, and if prayer is an expression of love, then he
+ did whatever the opposite of praying is.
+ Some of what he said was nonsense, credit taken for crimes that he didn't
+ commit, but I could usually tell by how he spoke.
+ He wasn't the guiding hand behind Harry Kramer's bombing campaigns.
+ If he had been, he would have brought it up more often, instead of just
+ in those moments that he really wanted to kill me."
+\end_layout
+
+\begin_layout Standard
+"You think that I could possibly be behind that act of terrorism?" asked
+ Lex.
+\end_layout
+
+\begin_layout Standard
+"It wasn't terrorism," said Superman.
+ "It was a series of attempts to kill me.
+ Terror was only a byproduct.
+ Given that I know you tried at least once, it's not unreasonable to think
+ that you had tried before." He held up a hand to forestall any objections.
+ "I'm less certain about that one, and obviously I have no hard proof.
+ Certainly nothing that would hold up in a court of law.
+ Still, it became clear fairly early on that I was looking for someone who
+ was intelligent and possessed an enormous amount of resources.
+ That you have lead-lined rooms in both your home and office, speak in languages
+ other than English for no good reason, and have a penchant for codes -
+ well, that helped to paint a picture.
+ I want a confession from you, one that covers everything you're guilty
+ of."
+\end_layout
+
+\begin_layout Standard
+"And then you'll kill me?" asked Lex.
+\end_layout
+
+\begin_layout Standard
+"No," said Superman.
+ "I'm willing to accept your unconditional surrender."
+\end_layout
+
+\begin_layout Standard
+"Ah," said Lex.
+ "And what does that entail?"
+\end_layout
+
+\begin_layout Standard
+"Part of an unconditional surrender is that you don't get to ask that question,"
+ said Superman.
+ "I beat you.
+ It's over.
+ You have exactly one thing that can give me the slightest injury, and I
+ can see it coming from a mile away.
+ I'm fairly certain I know how you think now.
+ It's been a learning experience, watching all of the machinations of an
+ enemy with nearly infinite resources and a steadfast refusal to be identified."
+\end_layout
+
+\begin_layout Standard
+"Fine," said Lex.
+ It was time to change tactics, and concede some ground in the hopes of
+ arranging a more advantageous battlefield.
+ "I confess.
+ I was the one who figured out your inability to see through lead, and allowed
+ that fact to be known around the world.
+ I arranged for the bombs to be made and placed, knowing that innocent people
+ would die.
+ I figured out your identity as Clark Kent, and inserted agents into Smallville.
+ Your mother's death was unintentional.
+ I stole your spaceship.
+ I found a single small chink in your armor and tried my best to use it
+ against you.
+ I believe that's an accurate list of my crimes." Almost all of the layers
+ of deception had slid off now, with only a few secrets still held back
+ in reserve.
+ Lex felt naked.
+\end_layout
+
+\begin_layout Standard
+"Why?" asked Superman.
+ He showed no shock or surprise.
+\end_layout
+
+\begin_layout Standard
+"You are too dangerous to be allowed to live," said Lex.
+ "You cannot be stopped after the fact, which means you must be stopped
+ prior to it."
+\end_layout
+
+\begin_layout Standard
+"Do you know why I killed Calhoun?" asked Superman.
+\end_layout
+
+\begin_layout Standard
+"According to Miss Lane, you were angry with him," said Lex.
+ He tried not to be bothered by the seeming non sequitur.
+ Superman was at an advantage in not only strength and speed, but information
+ as well.
+ Lois had said he had the ability to think for long moments in the space
+ between blinks, and perhaps that accounted for the disjointed conversation.
+\end_layout
+
+\begin_layout Standard
+"You're close," said Superman.
+ "I was angry with him, but anger alone wasn't enough.
+ Instead it was a chain of thought, with each step colored in anger.
+ I convinced myself that it was the correct thing to do, and that wouldn't
+ have been possible without the anger.
+ I've been looking over what I actually believe lately, and trying to figure
+ out why I believe it.
+ And do you know, I think more than anger, my thinking has been tainted
+ by fear.
+ As has your own."
+\end_layout
+
+\begin_layout Standard
+"Fear is a natural response to the chance of obliteration," said Lex.
+ "It's what saved our ancestors - my ancestors, anyway - from death.
+ When a new predator arrives in the woods, the appropriate reaction is to
+ run away or fight.
+ There was no way to run away from you.
+ So yes, I was and am afraid of you, but that fear had a grounding in reality.
+ I would have acted the same even if I didn't feel an instinctive terror
+ at your presence on this planet."
+\end_layout
+
+\begin_layout Standard
+"I was good," said Superman.
+ "I was a paragon of virtue.
+ I never hurt anyone.
+ I never acted in a way that was contrary to humanity.
+ I never interfered with politics or warfare.
+ You feared me all the same, and made it your mission to kill me.
+ You got this idea in your head that I was a threat -"
+\end_layout
+
+\begin_layout Standard
+"You were," said Lex softly.
+\end_layout
+
+\begin_layout Standard
+"And you never stopped to reconsider whether that continued to be true as
+ time went on," finished Superman.
+ "I'm not a bad person.
+ I'm not going to destroy this planet, or anyone on it.
+ That's more true now than ever."
+\end_layout
+
+\begin_layout Standard
+Lex was silent.
+ The issue wasn't whether Superman was planning to destroy the planet, it
+ was that he was capable of it at all.
+ "Knowing what I know now, I would have done things differently," said Lex.
+ "But up until an hour ago I thought it would be for the best if you were
+ dealt with, and you haven't said anything to change my mind.
+ Regardless, you have managed to convince me that it's not going to be possible
+ to accomplish that goal, so if you want my unconditional surrender, you
+ have it."
+\end_layout
+
+\begin_layout Standard
+"Good," said Superman.
+ "I said earlier that I had been ruled by my own fears.
+ They weren't fears of death or injury, for the most part.
+ They were fears of failing in other ways.
+ I acted like I thought a hero should act, and tried to be a symbol for
+ people.
+ I read your proposals as they came out, and the proposals of others.
+ Some of the ideas I'd already thought of myself, while others were novel,
+ but I had convinced myself that part of being a shining symbol of hope,
+ truth, and justice was being static.
+ Part of it was my father, I'm sure.
+ He had his very particular views about the world, and I was following his
+ example.
+ It felt like I would have been turning my back on him if I'd decided that
+ I wanted to do things differently.
+ And even when the evidence began to grow that I'd been wrong - or at least
+ not completely right - I refused to change.
+ I was afraid I would do something bad by trying to do something good.
+ I was worried that I would ruin our society, or mar human history.
+ I thought I would end up leading us down the same path Krypton had traveled,
+ letting too much happen too soon.
+ It was logic, tainted with the fear of failure."
+\end_layout
+
+\begin_layout Standard
+"You're speaking in the past tense," said Lex.
+\end_layout
+
+\begin_layout Standard
+"How much of what you've said over the past year was true?" asked Superman.
+ "How much do you want to make the world a better place?"
+\end_layout
+
+\begin_layout Standard
+"I meant all of it," said Lex.
+ "I could have done much less than I did, if I only wanted the appearance
+ of philanthropy.
+ I want to make the world a better place."
+\end_layout
+
+\begin_layout Standard
+"That's what your surrender means," said Superman.
+ "You're going to help me do the most good."
+\end_layout
+
+\begin_layout Standard
+"What's the catch?" asked Lex.
+ The important question of How? would come later.
+\end_layout
+
+\begin_layout Standard
+Superman waved his hand around the room.
+ "No more lead.
+ No more codes.
+ No more speaking in other languages.
+ No more secrets from me.
+ You'll have to return my spaceship to me, and stop all of the current research
+ into a means of killing me.
+ LexCorp will be turned into a machine for generating good in the world
+ instead of pure profits, in addition to all the money that you're going
+ to help me manage from the large scale labor I'll be doing.
+ I'll need a thorough debriefing on all of your methods of deception.
+ It probably goes without saying that I'll be watching you like a hawk.
+ I want your help in allowing me to keep my identity as Clark Kent secret,
+ which will likely involve buying The Daily Planet and giving me a list
+ of everyone who you've told, for starters.
+ And you're never to speak with Lois again."
+\end_layout
+
+\begin_layout Standard
+"And if I don't want to take that option?" asked Lex.
+ He was already thinking of ways to get around the restrictions that Superman
+ was talking about, but if the kryptonite was unworkable as a solution,
+ it was almost certain that the attempts on Superman's life would have to
+ stop for good.
+\end_layout
+
+\begin_layout Standard
+"I'm going to build a prison," said Superman.
+ "You would be the second inmate, if you refused.
+ There would be absolutely no hope of escape."
+\end_layout
+
+\begin_layout Standard
+"Then I'll help you, of course I will, but I'm afraid I still don't understand,"
+ said Lex.
+\end_layout
+
+\begin_layout Standard
+"I believe there's a goodness in you, Luthor," said Superman.
+ "I'm still a Christian, and the story of the Bible is one of redemption.
+ I have nothing to fear from you, and you're in a unique position to affect
+ positive change.
+ While I admit it would feel good to lock you away forever, rehabilitation
+ is more important than retribution.
+ More practically, no one knows of your crimes but me, and while I can prove
+ enough of it to my own satisfaction, I don't have any illusions that it
+ would hold up in any court of law.
+ Making you disappear would raise questions, and I don't know who might
+ have the answers.
+ My existence as Clark Kent is important to me, and I don't want to give
+ it up unless I have to.
+ You're a smart man.
+ You know I'm offering you a good deal."
+\end_layout
+
+\begin_layout Standard
+"You are," said Lex.
+ He swallowed.
+ "It makes more sense to keep me alive and work towards our mutual goals.
+ You hadn't struck me as being so level-headed."
+\end_layout
+
+\begin_layout Standard
+"People change," said Superman.
+ He blurred forward.
+ The chair he'd been sitting in slid backward three feet and fell over.
+ He stood right before the desk, towering over it.
+ His expression was deathly serious.
+ "I feel like it goes without saying, but I could kill you in a heartbeat.
+ I don't like using the threat of force, but if you step out of the very
+ clearly defined lines we're going to set, I will throw you right into a
+ specially made cell in my jail.
+ If you give me reason to suspect that you're still a threat to me or anyone
+ else around me, you will simply vanish from the face of the Earth and never
+ be heard from again."
+\end_layout
+
+\begin_layout Standard
+"Understood," said Lex.
+ He noted what Superman had said, and the very specific wording the alien
+ had used.
+ He had not actually said that he would commit murder, only that he could.
+ And the threat of consequences had been vague.
+ Superman was back to being a pacifist, it seemed, after a dalliance with
+ murder.
+ Lex could use that.
+\end_layout
+
+\begin_layout Standard
+But then, perhaps it made the most sense to simply accept the reality of
+ Superman.
+ If kryptonite shined brightly and Superman knew to look for it, it would
+ be nearly impossible to kill him with it.
+ A kryptonite bomb surrounded by lead would only work if Superman could
+ be maneuvered directly next to it, and as soon as he saw the casing of
+ the bomb bowing outwards he would be on the move.
+ The other clear option was to get Superman as he slept, but given what
+ they both knew about each other, there was a decent chance that Superman
+ would simply stop sleeping, or rotate through different anonymous locations
+ - and that was assuming that Superman could even be snuck up on while he
+ slept.
+ If Superman knew about kryptonite, and was willing to work outside of or
+ in opposition to the law, the problem seemed nearly unworkable.
+\end_layout
+
+\begin_layout Standard
+"Which of the proposals did you want to pursue?" asked Lex.
+\end_layout
+
+\begin_layout Standard
+Superman stood back, and brushed off his costume.
+ "I'm looking for pure efficiency, which is your area of expertise.
+ You're going to spend the next few days tearing the lead from these walls
+ and complying with my demands, and then I want you to start writing a proposal
+ for how I can do the most good.
+ I won't kill anyone, and I want to try to keep my interference with governmenta
+l bodies to a minimum, but I am willing to reshape the world in any other
+ way."
+\end_layout
+
+\begin_layout Standard
+"I'll think on it," said Lex.
+\end_layout
+
+\begin_layout Standard
+"Don't cross me," said Superman.
+ "I'm hoping that you can see that this is good for both of us."
+\end_layout
+
+\begin_layout Standard
+Lex nodded stiffly.
+ All his preparations and all his caution had been for nothing.
+ This wasn't the end that he wanted, but it was the best that he could have
+ hoped for after his masks had been taken away from him.
+\end_layout
+
+\begin_layout Standard
+"This will be the last time we see each other in person," said Superman.
+ "Or rather, the last time that you see me.
+ I'll be watching you." He turned to leave, then stopped and stared at the
+ door.
+ He glanced back at Lex with a frown on his face, then looked at the door
+ again.
+ It was lead of course, just like the walls of the room, but something had
+ given Superman pause.
+ "Miss Graves, please move away from the door."
+\end_layout
+
+\begin_layout Standard
+Instead, the door to the study began to open, and it had shifted only the
+ smallest fraction of an inch in the time it took for Superman to stand
+ behind Lex's desk.
+ He moved quickly and efficiently, being quite delicate with his power.
+ By the time the door swung open, Superman had Lex's head in his hands,
+ one of which was gripping his jaw.
+ Lex felt no sensation of pain or even discomfort.
+ Mercy stood at the doorway, with a solid block of kryptonite the size of
+ a baseball held straight out in front of her.
+\end_layout
+
+\begin_layout Standard
+"Mercy, was it?" asked Superman.
+ His vice grip didn't let up for a moment.
+\end_layout
+
+\begin_layout Standard
+Mercy nodded.
+\end_layout
+
+\begin_layout Standard
+"You have to know that this is utterly futile," said Superman.
+ "I shouldn't have expected you to sit idly by while Lex and I had our chat,
+ but we've come to an agreement of sorts.
+ I want to leave here peacefully and with a minimum amount of destruction
+ or loss of life."
+\end_layout
+
+\begin_layout Standard
+Lex's jaw was held firmly in place, preventing him from speaking.
+ He could only hope that Mercy would understand from the look in his eyes.
+ She took a half step closer.
+\end_layout
+
+\begin_layout Standard
+"Stop," said Superman.
+ She stopped.
+ "I'm going to let Lex speak to you, to try to convince you that you should
+ leave.
+ Lex, consider this your first test."
+\end_layout
+
+\begin_layout Standard
+Lex's jaw was gently released.
+ He took a breath.
+ "Mercy, I want you to listen to me very carefully.
+ Throw the kryptonite towar-"
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The grip on Lex's head vanished just as the wall behind him shattered outwards
+ with a rush of air.
+ Mercy had started winding up for a throw before Lex was halfway through
+ his sentence, and the block of kryptonite landed on the desk, where it
+ slid across and fell to the floor at Lex's feet.
+ Lex ignored it and opened the lead-lined drawer to pull out the pistol.
+\end_layout
+
+\begin_layout Standard
+He stepped out the hole in the side of his mansion, where it was a nice
+ and pleasant summer day.
+ Superman was laying on the ground a hundred feet away, covered by his red
+ cape, and Lex took off towards him at a dead sprint, trying his best to
+ avoid the glowing green shards and bits of lead that Superman had taken
+ with him when he went through the wall.
+\end_layout
+
+\begin_layout Standard
+When Lex was five feet away, he fired three bullets into Superman's head.
+ The sight of blood sent a wave of relief through him, and he crouched down
+ next to the body to catch his breath.
+\end_layout
+
+\begin_layout Standard
+"I studded the walls with kryptonite," Lex said to the empty air.
+ He kept his eyes on the body, just in case it started moving.
+\end_layout
+
+\begin_layout Standard
+After a half a minute had passed, Mercy came walking across the lawn to
+ join him.
+ Her hair was in the same tight bun as always, and she certainly didn't
+ look like she'd just played an instrumental part in killing a god.
+\end_layout
+
+\begin_layout Standard
+"He had a great many options for dealing with that situation," said Mercy.
+ "How lucky did we just get?"
+\end_layout
+
+\begin_layout Standard
+"I haven't had enough time to work out the odds," said Lex.
+ "But he didn't want to hurt either of us, even after everything I'd done.
+ Leaving through the side of the room was probably what I would have done.
+ I think it would be safe to say that we won because we were lucky.
+ Putting kryptonite in with the lead was at the far edge of my most paranoid
+ preparations, and after the brush-by I had thought that it wasn't strong
+ enough.
+ I was actually angry about wasting the money.
+ Superman had been talking about a change of heart.
+ If he had decided that killing us - or hurting us - was acceptable I would
+ have asked you to stand down." He ran his hand across his bare scalp.
+ "He was too dangerous to let live."
+\end_layout
+
+\begin_layout Standard
+"I know, sir," said Mercy.
+ She looked across the yard.
+ They were separated from their neighbors by a massive yard and thick shrubs,
+ but the noise wouldn't go unnoticed.
+ "We should figure out what sort of story is appropriate to this situation."
+ She looked at where Superman lay.
+ "We should also dispose of the body."
+\end_layout
+
+\begin_layout Standard
+"I don't know how much of our conversation you overhead," said Lex.
+ "But it didn't change anything.
+ He was just too powerful to be allowed to exist."
+\end_layout
+
+\begin_layout Standard
+Mercy only nodded.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+"Any word from Clark?" asked Jimmy.
+\end_layout
+
+\begin_layout Standard
+"No," said Lois.
+ "I wouldn't expect any letters from him."
+\end_layout
+
+\begin_layout Standard
+"He just left without saying goodbye though?" asked Jimmy.
+ "I mean, he was never very dependable, but I just didn't expect it of him."
+\end_layout
+
+\begin_layout Standard
+"He'd had too much of the city," said Lois.
+ "You read his letter of resignation.
+ He's back in Kansas, taking care of the farm.
+ It wasn't impossible to predict.
+ You know how much he talked about Smallville." Lex had called her to let
+ her know that Superman had been dealt with, and the letter of resignation
+ had come in the very next day.
+ She'd been feeling an awful pit in her stomach ever since, even as she
+ tried to keep Perry and Jimmy from asking too many questions.
+ She had no idea how Lex had done it, but she was certain that Clark was
+ dead.
+\end_layout
+
+\begin_layout Standard
+Jimmy moved closer and lowered his voice.
+ "The thing is, I was talking to Eleanor.
+ Did I ever tell you how we met?"
+\end_layout
+
+\begin_layout Standard
+"At a bar?" asked Lois.
+\end_layout
+
+\begin_layout Standard
+"Right," said Jimmy.
+ "It was just after we'd gotten back from the Whitman thing, and … she asked
+ me some questions about Clark.
+ I didn't think anything of it at the time, I was halfway to drunk and she
+ was - is - a beautiful woman.
+ Anyway, I was talking to her about Clark's sudden retirement from the reporting
+ business, and she broke down and told me that it wasn't an accident that
+ we had met each other.
+ I was part of a case she was working, to try to dig up some dirt on local
+ reporters.
+ She works for a detective agency, and she thought that maybe it was so
+ that someone would be able to put pressure on him if the wrong sort of
+ story broke, but now … now it seems a little fishy."
+\end_layout
+
+\begin_layout Standard
+Luthor, thought Lois.
+ She should have known that after she told him about Superman's secret identity
+ he would try to find out more.
+ Maybe it had been one of the things that had tipped Clark off and let him
+ know that someone was on his trail.
+ "Wait a second, you started dating after we covered the Whitman kidnapping?"
+\end_layout
+
+\begin_layout Standard
+"Yeah, why?" asked Jimmy.
+\end_layout
+
+\begin_layout Standard
+The timeline didn't match up.
+ She'd come to Lex months later, which meant that either someone else was
+ snooping into Clark's past, or Lex had known the truth far before she had.
+ One of those options seemed far more likely than the other.
+\end_layout
+
+\begin_layout Standard
+"Nothing," said Lois.
+ "You've just given me something to think about."
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Just because Superman was gone didn't mean that Lex could rest easy.
+ There was a distinct possibility that more aliens would arrive at some
+ point in the future, and if they had capabilities anything like what Superman
+ had, humanity needed to undergo a rapid technological advancement as swiftly
+ as possible.
+ Superman's spaceship still held a wealth of information, and there was
+ a piece of it that Lex thought of as its brain - a central component that
+ was connected to all of the others and likely carried signals of some sort.
+ On top of that, there was the brewing war in Europe to consider, along
+ with the Sino-Japanese conflict.
+ It was unfortunate that governments were more willing to spend extreme
+ amounts of money when there was an immediate danger to their existence,
+ but war - or at least the threat of it - would prove useful.
+\end_layout
+
+\begin_layout Standard
+"Miss Lane to see you," said Mercy.
+ She had helped to drag Superman's body from the wreckage and hide it in
+ the trunk of one of his cars before the police arrived, and as he might
+ have predicted, the whole experience didn't seem to have changed her at
+ all.
+\end_layout
+
+\begin_layout Standard
+"Send her in," said Lex with a smile.
+\end_layout
+
+\begin_layout Standard
+Lois looked different.
+ She'd cut her hair aggressively short since the last time they saw each
+ other, and if she had always been a little bit ferocious, now she seemed
+ positively bristling.
+\end_layout
+
+\begin_layout Standard
+"How much of it were you responsible for?" asked Lois.
+\end_layout
+
+\begin_layout Standard
+"I'm afraid I don't know what you're talking about," said Lex.
+\end_layout
+
+\begin_layout Standard
+"You killed his mother, that much I'm nearly certain of," said Lois.
+ She sat down in what had been her customary chair, and stared at him with
+ intense eyes.
+ "I went out there, did you know that? I went to Smallville, trying to find
+ out who he had been.
+ I'm surprised you left so many loose ends.
+ There was an autopsy report for Martha Kent that didn't look right, and
+ the day she died, when there was that big storm, three people went missing
+ from Smallville and never came back.
+ They didn't find bodies either."
+\end_layout
+
+\begin_layout Standard
+"Again, I have to insist that I don't know what you're talking about," said
+ Lex.
+ "And if you're thinking of putting any of these thoughts to print, I would
+ suggest that you either have a substantial amount of proof or a very, very
+ good lawyer."
+\end_layout
+
+\begin_layout Standard
+"I kept thinking about the bombings," said Lois.
+ "Clark thought that Calhoun was the man behind them, but he was wrong,
+ wasn't he? While you were putting out a reward for Kramer's capture in
+ public, you were sending him schematics and instructions in private.
+ It wasn't possible for a single man to have done it all, that much was
+ obvious, so you framed Calhoun and bombed your own properties to turn watchful
+ eyes in another direction.
+ You were trying to kill Clark from the start."
+\end_layout
+
+\begin_layout Standard
+"Miss Lane, I generally make it a point to not bother refuting spurious
+ rumors about myself," said Lex.
+ "But given the gravity of what you're suggesting and the fact that we were
+ friends, once upon a time, I will tell you completely and unequivocally
+ that I had nothing to do with any of that.
+ I was a steadfast supporter of Superman -"
+\end_layout
+
+\begin_layout Standard
+"Because you needed a cover," said Lois.
+\end_layout
+
+\begin_layout Standard
+"I was a steadfast supporter of Superman, and I was as disheartened as anyone
+ when he became a murderer and fled the planet," said Lex.
+\end_layout
+
+\begin_layout Standard
+"You killed hundreds, didn't you, without even a thought for the value of
+ their lives?" asked Lois.
+\end_layout
+
+\begin_layout Standard
+"I am curious about what evidence drove you towards such a wild and unfounded
+ conclusion," said Lex.
+ There was no way that she would be able to prove anything.
+\end_layout
+
+\begin_layout Standard
+In the worst case scenario, she had found the laboratory where the spaceship
+ was being kept and broken through all the layers of security, but that
+ still wouldn't be enough to implicate him in the public eye, let alone
+ the court of law.
+ Superman's body had been reduced to pulp, mixed with a healthy amount of
+ kryptonite, encased in lead, and lowered deep into an unmarked grave on
+ a vast, private nature preserve in Alaska which Lex had exclusive control
+ of.
+ He had used hundreds of agents in the course of tracking down and positioning
+ Superman, but only a very few knew enough to implicate an unknown master
+ in wrongdoing, and only Mercy had the ability to implicate Lex as that
+ mastermind.
+ It was well possible that Lois could or would reveal to the world that
+ Clark Kent had been Superman, but it would have raised all kinds of questions
+ he was sure she would want to avoid, and either way wasn't something that
+ could really be proven after the fact - nor would it substantially change
+ his plans.
+\end_layout
+
+\begin_layout Standard
+"I don't have any evidence," said Lois.
+ "Believe me, if I did I would be shouting it from the rooftops instead
+ of coming here.
+ You won, Luthor.
+ I just want to know what the hell you were thinking."
+\end_layout
+
+\begin_layout Standard
+"Well, of course I can't comment on things that I haven't done," said Lex.
+ "If, hypothetically, I had engineered a series of heinous crimes in pursuit
+ of some foolish feud with Superman, I certainly would have nothing to gain
+ by telling you about my reasoning, especially not when it would give more
+ fuel to your paranoia."
+\end_layout
+
+\begin_layout Standard
+"I hated Clark for lying to me," said Lois.
+ "I hated him for living this double life and pulling the wool over my eyes.
+ But at least at their core, Clark and Superman were the same person.
+ There was a real goodness there, even if it was clumsy and imperfect.
+ Is there a core to you, Lex?"
+\end_layout
+
+\begin_layout Standard
+"Lois, I have a franchise of orphanages set up throughout the United States
+ now, headed by caring, competent people," said Lex.
+ "I am personally spearheading a number of advancements in the sciences
+ that will revolutionize the world ten times over.
+ If the United States goes to war in the coming years, one of the reasons
+ we will emerge victorious is because of the vast resources that I control
+ and the overwhelming technological superiority that we will enjoy.
+ I have done more to end the Great Depression than any single other person
+ on the planet.
+ That is my core."
+\end_layout
+
+\begin_layout Standard
+Lois only glared at him.
+ She stood slowly, seeming years older than when they'd first met.
+ "I wish I'd never met you," she said.
+ She left without another word.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename divider.bmp
+	height 8pt
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+He'd waited too long.
+\end_layout
+
+\begin_layout Standard
+Superman had been stopping by with food every three days like clockwork.
+ The hole in the ground had been expanded, and he'd brought in more supplies.
+ It was gratifying to have his pitiful existence made slightly more bearable,
+ but at the same time every new possession in his miserable little hole
+ meant that his captivity became more and more permanent.
+\end_layout
+
+\begin_layout Standard
+The plan had been to wait for Superman to make his next visit (canned foods,
+ refill the barrel of water, empty the waste bucket) and then make the trip
+ up after that so that there was less of a chance of starving to death in
+ the woods once he made it out of the hole, not to mention that he needed
+ as much time to scurry away before the big blue warden came back to tend
+ to his only prisoner.
+\end_layout
+
+\begin_layout Standard
+It was difficult to mark time, given how close to the Arctic Circle he was.
+ The sun dipped down to the horizon and then stayed there.
+ But when three days had come and gone, Floyd had waited another two days
+ after that, worried that Superman was simply late.
+ He'd let his food get too low, and was going to have to make the climb
+ on an empty stomach.
+\end_layout
+
+\begin_layout Standard
+He was thirty feet up when he slipped.
+ He'd been trying to lunge up to a higher handhold, and when he missed and
+ sank back down to let his weight rest on his feet, one of them slipped.
+ Then he was falling.
+\end_layout
+
+\begin_layout Standard
+He lay on the cold, hard floor with a broken leg.
+ There was no chance that he would be able to make the climb now, let alone
+ hike through the wilderness.
+ He made a quick tourniquet and a splint, and hoped that Superman would
+ come back.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2cm*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Author's Note: Thanks for reading.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
