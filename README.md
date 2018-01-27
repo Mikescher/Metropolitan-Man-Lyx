@@ -1,4 +1,4 @@
-A Practical Guide To Evil (LyX)
+The Metropolitan Man (LyX)
 ===============================
 
 [The Metropolitan Man](https://www.fanfiction.net/s/10360716/1/) LyX files
